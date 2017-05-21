@@ -6,11 +6,42 @@ Eventual Event Finder is an application for managing and searching various types
 ## Environment / Technologies 
 AngularJS v1.6, JavaScript, Webpack, ESLint, Protractor, Babel, Gulp, HTML, CSS, Bootstrap, Agile
 
----
 >---
 > ## Developers:
-> Summer Wilken                       - snwilken<br/>
-> Mike Furlow                         - mfurlow<br/>
+> ### Summer Wilken                       - snwilken<br/>
+> ### Mike Furlow                         - mfurlow<br/>
 >---
 
-## Views
+## Views - Mock Ups
+### Landing Page
+![alt tag](https://github.com/snwilken/Front-End/blob/master/Views/LandingPage.png?raw=true)
+
+### From this page the user can :
+<ul>
+<li>Search for events based on keywords</li>
+<li>Authenticated users can navigate to user dashboard</li>
+<li>View thumbnails of events</li>
+<li>Navigate to event page</li>
+</ul>
+
+### Event Page
+![alt tag](https://github.com/snwilken/Front-End/blob/master/Views/Event.png?raw=true)
+
+### From this page the user can :
+<ul>
+<li>View specific details about the event</li>
+<li>View location information</li>
+<li>Authenticated user can favorite event</li>
+<li>RSVP to event</li>
+</ul>
+
+### User Dashboard
+![alt tag](https://github.com/snwilken/Front-End/blob/master/Views/myevents.png?raw=true)
+
+### From this page the user can : 
+<ul>
+<li>View their rsvp’d, favorited and past events</li>
+<li>Add events from their saved tab</li>
+<li>Remove favorited and rsvp’d events from their dashboard</li>
+<li>Navigate to event page</li>
+</ul>
